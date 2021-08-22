@@ -94,7 +94,6 @@ body {
   background-color: black;
   z-index: 11;
   width: 15px;
-  height: ;
 }
 .clock .secHand {
   width: 3px;
@@ -102,11 +101,6 @@ body {
   background-color: red;
 }
 
-.clock .minHand {
-  width: 7px;
-  height: 40%;
-  background-color: black;
-}
 
 .clock .hrHand {
   width: 10px;
