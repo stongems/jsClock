@@ -101,6 +101,11 @@ body {
   background-color: red;
 }
 
+.clock .minHand {
+    width: 7px;
+    height: 40%;
+    background-color: black;
+  }
 
 .clock .hrHand {
   width: 10px;
