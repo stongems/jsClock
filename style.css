@@ -782,13 +782,13 @@ body {
 .clock .secHand {
   width: 3px;
   height: 45%;
-  background-color: red;
+  background-color: green;
 }
 
 .clock .minHand {
     width: 7px;
     height: 40%;
-    background-color: black;
+    background-color: darkslategray;
   }
 
 .clock .hrHand {
