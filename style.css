@@ -24,7 +24,7 @@ body {
   height: 300px;
   background-color: rgba(255, 255, 255, 0.7);
   border-radius: 50%;
-  border: 5px solid black;
+  border: 5px solid goldenrod;
 }
 .clock .number {
   position: absolute;
@@ -104,7 +104,7 @@ body {
 .clock .secHand {
   width: 3px;
   height: 45%;
-  background-color: red;
+  background-color:silver;
 }
 .clock .hrHand {
   width: 10px;
