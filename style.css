@@ -112,6 +112,13 @@ body {
 }
 .clock .hrHand {
   width: 10px;
-  height: 25%;
+  height: 30%;
   background-color: black;
+}
+.rolex {
+  width: 100px;
+  height: 80px;
+  position: relative;
+  left: 96px;
+  top: 37px;
 }
